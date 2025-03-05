@@ -5,11 +5,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 
 @SpringBootTest
+
 class AgredadordeinvestimentosApplicationTests {
 
     @Test
     void contextLoads( )
-    {
-    }
+    {}
 
 }
